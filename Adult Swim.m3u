@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Adult Swim Toonami
+http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
+#EXTINF:0,Adult Swim Live Action Marathon
+http://adultswimhls-i.akamaihd.net/hls/live/242141-b/adultswim_3/liveaction/1/master_Layer4.m3u8
+#EXTINF:0,Adult Swim Animation Marathon
+http://adultswimhls-i.akamaihd.net/hls/live/242140-b/adultswim_2/animated/1/master_Layer4.m3u8
